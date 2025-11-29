@@ -36,4 +36,4 @@
 📘 **Facebook:** [Jihad Dion](https://www.facebook.com/)  
 💌 Or send me a message here on GitHub!  
 
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hadjicuteeee&show_icons=true&theme=radical)
