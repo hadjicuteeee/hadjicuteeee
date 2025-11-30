@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Jihad </h1>
 <h3 align="center">Aspiring Data Analyst & Data Engineer | SQL • Python • Power BI</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hadjicuteeee&label=Profile%20Views&color=blue&style=flat" alt="views" />
-</p>
 
 ---
 
